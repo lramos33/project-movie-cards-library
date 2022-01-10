@@ -39,7 +39,7 @@ Foi desenvolvido uma biblioteca de cartões de filmes utilizando React. A biblio
 
 ![image](screenshot.png)
 
-## Requisitos do projeto
+## ✅ Requisitos do projeto
 
 - [x] 1 - Crie um componente `<Header />`
 - [x] 2 - Renderize um texto no `<Header />`
