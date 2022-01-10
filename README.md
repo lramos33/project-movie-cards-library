@@ -1,8 +1,24 @@
-# Project Movie Cards Library
+<h1 align="center">Project Movie Cards Library</h1>
 
-## Habilidades
+## 💻 Instalando o projeto
 
-Nesse projeto, fomos capaz de:
+Clone o repositório:
+
+```
+git clone git@github.com:lramos33/project-movie-cards-library.git
+```
+
+Instale as dependências:
+```
+npm install
+```
+
+Execute a aplicação
+```
+npm start
+```
+
+## 🚀 Habilidades
 
 - Inicializar um projeto em React;
 - Utilizar JSX no React;
@@ -17,7 +33,7 @@ Nesse projeto, fomos capaz de:
 - Utilizar PropTypes para checar que uma prop é um objeto de formato específico;
 - Utilizar PropTypes para garantir que uma prop é um array com elementos de um determinado tipo.
 
-## O que foi desenvolvido
+## 🔧 O que foi desenvolvido
 
 Foi desenvolvido uma biblioteca de cartões de filmes utilizando React. A biblioteca possui um cabeçalho e uma lista de cartões. Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinopse e avaliação.
 
