@@ -10,6 +10,12 @@ Clone o repositório:
 git clone git@github.com:lramos33/project-movie-cards-library.git
 ```
 
+Acesse a pasta do repositório
+
+```
+cd project-movie-cards-library
+```
+
 Instale as dependências:
 ```
 npm install
