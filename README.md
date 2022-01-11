@@ -1,5 +1,7 @@
 <h1 align="center">Project Movie Cards Library</h1>
 
+<p align="center"> ✅ Concluded</p>
+
 ## 💻 Instalando o projeto
 
 Clone o repositório:
@@ -23,7 +25,7 @@ npm start
 - Inicializar um projeto em React;
 - Utilizar JSX no React;
 - Utilizar o ReactDOM.render para renderizar elementos numa página web;
-- Utilizar o import para usar código externo junto ao seu;
+- Utilizar o import para usar código externo;
 - Criar componentes React corretamente;
 - Fazer uso de props corretamente;
 - Fazer composição de componentes corretamente;
