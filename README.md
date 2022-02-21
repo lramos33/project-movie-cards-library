@@ -1,6 +1,6 @@
 <h1 align="center">Project Movie Cards Library</h1>
 
-<p align="center"> ✅ Concluded</p>
+<p align="center">✔️ Concluded - 100%</p>
 
 ## 💻 Instalando o projeto
 
@@ -49,39 +49,39 @@ Foi desenvolvido uma biblioteca de cartões de filmes utilizando React. A biblio
 
 ## 📝 Requisitos do projeto
 
-- [x] 1. Crie um componente `<Header />`;
+#### 1. Crie um componente `<Header />`;
 
-- [x] 2. Renderize um texto no `<Header />`;
+#### 2. Renderize um texto no `<Header />`;
 
-- [x] 3. Crie um componente `<MovieList />`;
+#### 3. Crie um componente `<MovieList />`;
 
-- [x] 4. Renderize componentes `<MovieCard />` dentro de `<MovieList />`;
+#### 4. Renderize componentes `<MovieCard />` dentro de `<MovieList />`;
 
-- [x] 5. Passe uma key para cada `<MovieCard />` renderizado;
+#### 5. Passe uma key para cada `<MovieCard />` renderizado;
 
-- [x] 6. Crie um componente `<MovieCard />`;
+#### 6. Crie um componente `<MovieCard />`;
 
-- [x] 7. Renderize a imagem do filme dentro de uma tag `img`;
+#### 7. Renderize a imagem do filme dentro de uma tag `img`;
 
-- [x] 8. Renderize o título do filme dentro de uma tag `h4`;
+#### 8. Renderize o título do filme dentro de uma tag `h4`;
 
-- [x] 9. Renderize o subtítulo do filme dentro de uma tag `h5`;
+#### 9. Renderize o subtítulo do filme dentro de uma tag `h5`;
 
-- [x] 10. Renderize a sinopse do filme dentro de uma tag `p`;
+#### 10. Renderize a sinopse do filme dentro de uma tag `p`;
 
-- [x] 11. Crie um componente `<Rating />`;
+#### 11. Crie um componente `<Rating />`;
 
-- [x] 12. Renderize a nota de um filme dentro de `<Rating />`;
+#### 12. Renderize a nota de um filme dentro de `<Rating />`;
 
-- [x] 13. Renderize o componente `<Rating />` dentro de `<MovieCard />`;
+#### 13. Renderize o componente `<Rating />` dentro de `<MovieCard />`;
 
-- [x] 14. Passe como prop para o componente `<Rating />` o atributo rating;
+#### 14. Passe como prop para o componente `<Rating />` o atributo rating;
 
-- [x] 15. Crie um componente `<App />`;
+#### 15. Crie um componente `<App />`;
 
-- [x] 16. Renderize `<MovieList />` dentro do componente `<App />`;
+#### 16. Renderize `<MovieList />` dentro do componente `<App />`;
 
-- [x] 17. Adicione `PropTypes` a todos os componentes.
+#### 17. Adicione `PropTypes` a todos os componentes.
 
 ##
 
